@@ -16,7 +16,7 @@ import (
 	"strings"
 	"syscall"
 
-	ldap "github.com/vjeantet/ldapserver"
+	ldap "github.com/karthikpdc/ldapserver"
 )
 
 func main() {
